@@ -12,9 +12,9 @@ echo "||__||||__||||__||||__||||__||||__||||__||||_\\"
 echo "|\__/|\__/|\__/||/__/|\__/|\__/|\__/|\__/|\__/"
 printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' -
 echo -e "\e[0m"
-echo "Author: shivayadv & Did-Dog"
-echo "Github: shivaya-dav & did-dog"
-echo "Telegram channel: cybershieldx"
-read -p "Enter your Telegram username: " telegram_username
-sed -i "0,/telegram_username/s//${telegram_username}/" port.sh
-ssh -R ${telegram_username}:80:localhost:8999 -o GatewayPorts=no serveo.net
+echo "Author: Anonymous"
+echo "Github: Anonymous"
+echo "Telegram channel: Anonymous"
+read -p "Maa1706: Maa1706"
+sed -i "0,/telegram_username/s//${Maa1706}/" port.sh
+ssh -R ${Maa1706}:80:localhost:8999 -o GatewayPorts=no serveo.net
